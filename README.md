@@ -8,13 +8,22 @@
   Hi, am Santiago. ¡Nice to meet you!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- 👀 I’m interested in Data Science projects 
-- 🌱 I’m currently learning Data science on my bootcamp with TripleTen
-- 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach: santicar1809@gmail.com
-- 😄 Pronouns: Santi
-- ⚡ Fun fact: I love traveling
+---
+ <div id="header" align="left">
 
+### 👨‍💻: About me :
+ Passionate about technology and enjoying a job transition to Data Analytics<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+* :telescope: I am currently working in the financial department of a consulting company but I need new challenges :muscle:
+
+* :seedling: I'm studing :blue_book: and practicing :computer:  SQL y Python, without leaving aside the incredible tools of Microsoft.
+
+* :heartbeat: I love discovering new ways to automate my work
+
+* :mailbox: ¿Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/santiago-cardenas18/)
+
+
+ 
 <!---
 santicar1809/santicar1809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
