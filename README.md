@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/santicar1809/banner_linkedin/blob/main/Banner%20para%20Linkedin%20Licenciado%20en%20marketing%20Corporativo%20Verde%20y%20blanco%20(1).png" width="800"/>
 </div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](www.linkedin.com/in/santiago-cardenas18/)
+
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
   <h1>
