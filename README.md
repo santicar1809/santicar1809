@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png](https://github.com/santicar1809/banner_linkedin/blob/main/Banner%20para%20Linkedin%20Licenciado%20en%20marketing%20Corporativo%20Verde%20y%20blanco.png)" width="800"/>
 </div>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/noelianav/](https://www.linkedin.com/in/santiago-cardenas18/))
+
 - 👋 Hi, I’m @santicar1809
 - 👀 I’m interested in Data Science projects 
 - 🌱 I’m currently learning Data science on my bootcamp with TripleTen
