@@ -20,7 +20,7 @@
 
 * :heartbeat: I love discovering new ways to automate my work
 
-* :mailbox: ¿Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/santiago-cardenas18/)
+* :mailbox: ¿Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Santiago-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/santiago-cardenas18/)
 
 
  
