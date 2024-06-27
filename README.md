@@ -25,6 +25,10 @@
 * :heartbeat: I love discovering new ways to automate my work
 
 * :mailbox: ¿Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Santiago-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-cardenas18/)
+
+* 📧: santicar1809@gmail.com
+
+* :iphone: +(57) 320 454 1728
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
@@ -37,8 +41,14 @@
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-
 </div>
+
+### 💻:  Other Skills:
+<div id="header" align="left">
+
+   [![My Skills](https://skillicons.dev/icons?i=py,mysql,java,postgres,github,html,css)](https://skillicons.dev)
+</div>
+
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santicar1809&theme=dark&background=000000)](https://git.io/streak-stats)
 
