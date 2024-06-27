@@ -46,7 +46,7 @@
 ### 💻:  Other Skills:
 <div id="header" align="left">
 
-   [![My Skills](https://skillicons.dev/icons?i=py,mysql,java,postgres,github,html,css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,github,html,css)](https://skillicons.dev)
 </div>
 
 
