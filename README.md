@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/santicar1809/banner_linkedin/blob/main/Banner%20para%20Linkedin%20Licenciado%20en%20marketing%20Corporativo%20Verde%20y%20blanco%20(1).png" width="800"/>
+  <img decoding="async" src="https://github.com/santicar1809/banner_santi/blob/main/Banner%20para%20Linkedin%20programador%20con%20fotografia%20azul%20y%20blanco.png" width="800"/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-cardenas18/)
 </div>
