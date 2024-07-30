@@ -31,7 +31,7 @@
 * :iphone: +(57) 320 454 1728
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Languages and tools :
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
